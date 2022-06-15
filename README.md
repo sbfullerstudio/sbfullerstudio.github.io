@@ -1,4 +1,4 @@
-## Welcome to Sb Pages
+## SB FULLER STUDIO PORTFOLIO
 
 You can use the [editor on GitHub](https://github.com/ineedgills08/ineedgills08.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
