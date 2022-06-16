@@ -15,7 +15,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Sb Fuller Studio"
+title:		           "SB FULLER STUDIO"
 description:	       "Data Science / Computer Vision Portfolio"
 author:              "Sb Fuller"
 
