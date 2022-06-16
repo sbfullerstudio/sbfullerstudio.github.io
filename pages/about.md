@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
+![ ](./assets/img/IMG_1916.JPG)
 
 Hi, I'm Sb!
 
