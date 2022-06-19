@@ -11,18 +11,20 @@
     margin: 0;
     padding: 10px;
     position: absolute;
+    opacity: 0;
+  }
+  .featured-post:hover h2 {
+    opacity: 1;
   }
   .featured-post h2 span {
     display: inline-block;
-    color: white;
+    color: black;
     font: 24px/45px "Times New Roman", serif;
-    letter-spacing: -1px;
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
+    background: white;
     padding: 10px;
   }
   .featured-post span a {
-    color: white;
+    color: black;
   }
   .featured-post h1 {
     margin: 10px;
