@@ -11,6 +11,6 @@ I take very seriously the responsibility of bringing feeling and strategic resol
 
 Skills: Project and Production Management, Time Series Data Analysis and Forecasting, Dashboarding and Data Visualization, Applied Machine Learning and Computer Vision
 
-Tools: Git Bash, GitHub, Jupyter Lab, MS Excel, MS PowerPoint, pgAdmin (PostgreSQL), BigQuery, Python (Keras, Matplotlib, NumPy, Pandas, SciPy, Seaborn, Scikit-learn, Statsmodels, TensorFlow, Sktime), Structured Query Language (SQL), R, HTML, Darknet, Tableau Desktop, AWS, Photoshop, ArtBase, Gallery Manager 
+Tools: Jupyter Lab, MS Excel, MS PowerPoint, pgAdmin (PostgreSQL), BigQuery, Python (Keras, Matplotlib, NumPy, Pandas, SciPy, Seaborn, Scikit-learn, Statsmodels, TensorFlow, Sktime), Structured Query Language (SQL), R, HTML, Darknet, GitHub, Tableau Desktop, AWS, Photoshop, ArtBase, Gallery Manager 
 
 Feel free to look around and check out some of what I've been working on!
