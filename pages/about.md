@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
+![ ](./assets/img/IMG_19161.JPG)
+
 Hi, I'm Sb!
 
 I'm an artist and data scientist living in New York City with over 10 years of experience in operations and production strategy. I've learned a lot through the many lives I've lived and I'm always super excited to share insights with team mates or other inquiring minds. 
