@@ -6,7 +6,7 @@
     background-size: cover;
     position: relative;
   }
-  .featured-post h2 {
+  article h2 {
     position: absolute;
         bottom: 10px;
         right: 10px;
@@ -14,14 +14,14 @@
     padding: 0;
     opacity: 1;
   }
-  .featured-post h2 span {
+  article h2 span {
     display: inline-block;
     color: black;
     font: 18px "Times New Roman", serif;
     background: white;
     padding: 5px 8px;
   }
-  .featured-post span a {
+  article span a {
     color: black;
   }
   .featured-post h1 {
