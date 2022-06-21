@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-![ ](./assets/img/IMG_19161.JPG)
+
 
 Hi, I'm Sb!
 
@@ -22,5 +22,7 @@ No one is an island!
 Skills: Project and Production Management, Time Series Data Analysis and Forecasting, Dashboarding and Data Visualization, Applied Machine Learning and Computer Vision
 
 Tools: Jupyter Lab, MS Excel, MS PowerPoint, pgAdmin (PostgreSQL), BigQuery, Python (Keras, Matplotlib, NumPy, Pandas, SciPy, Seaborn, Scikit-learn, Statsmodels, TensorFlow, Sktime), Structured Query Language (SQL), R, HTML, Darknet, GitHub, Tableau Desktop, AWS, GCP, Dask, Spark, Docker, Photoshop, ArtBase, Gallery Manager 
+
+![ ](./assets/img/IMG_19161.JPG)
 
 
