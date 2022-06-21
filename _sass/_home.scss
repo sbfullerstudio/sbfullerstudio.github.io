@@ -20,6 +20,20 @@
     background: white;
     padding: 0px 8px;
   }
+  article h3 {
+    margin: 0;
+    padding: 0;
+    opacity: 1;
+    text-align: right;
+  }
+  article h3 span {
+    display: inline-block;
+    color: black;
+    font: 10px "Times New Roman", serif;
+    letter-spacing: 0px;
+    background: white;
+    padding: 0px 8px;
+  }
   article span a {
     color: black;
   }
