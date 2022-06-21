@@ -1,6 +1,6 @@
 .featured-post {
     height: 400px;
-    margin: 30px 10px 0px 10px;
+    margin: 22px 10px 0px 10px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,12 +10,13 @@
     margin: 0;
     padding: 0;
     opacity: 1;
+    text-align: right;
   }
   article h2 span {
     display: inline-block;
-    text-align: right;
     color: black;
     font: 18px "Times New Roman", serif;
+    letter-spacing: 3px;
     background: white;
     padding: 5px 8px;
   }
